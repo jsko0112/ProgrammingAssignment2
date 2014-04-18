@@ -1,7 +1,7 @@
 ## ProgrammingAssignment2
 ## by Alex Ko
 
-## his function creates a special "matrix" object that can cache its inverse
+## This function creates a special "matrix" object that can cache its inverse
 ## - set the value of the matrix
 ## - get the value of the matrix
 ## - set the value of the inverse
